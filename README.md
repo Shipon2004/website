@@ -29,7 +29,7 @@
   <ul>
     <li>My Childhood</li>
   </ul>
-  <img src="logo.png" alt="#">
+  <img src="logo.png" alt="">
 
 
   <p>This Page was create by Shipon Sheikh. To learn more About Web Design,<a href="https://www.w3schools.com/"> click here</a></p>
